@@ -469,9 +469,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "HackClubHackPad.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "HackClubHackPad.wrl"
     },
     "page_layout_descr_file": ""
   },

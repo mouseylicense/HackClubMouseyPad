@@ -140,7 +140,7 @@
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW5"
-			(at 2.8 -4.7 360)
+			(at 2.8 -4.7 0)
 			(layer "F.SilkS")
 			(uuid "eddf1a13-a8e3-497d-a598-e27e83bed79b")
 			(effects
@@ -151,7 +151,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 7.5 10.4 360)
+			(at 7.5 10.4 0)
 			(layer "F.Fab")
 			(uuid "2cb2783a-e4db-4d0e-ad38-a453fae35576")
 			(effects
@@ -468,7 +468,7 @@
 			(uuid "3c61c109-8cb8-4414-a0f9-ea981a98c20b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 11.1 6.3 360)
+			(at 11.1 6.3 0)
 			(layer "F.Fab")
 			(uuid "2e060057-5b32-43e7-bfb7-6bfbc989bf22")
 			(effects
@@ -566,7 +566,7 @@
 		(uuid "40fb7aef-a739-43b7-a144-7b976f650522")
 		(at 178.64525 33.422015)
 		(property "Reference" "U1"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(uuid "11e30a90-d427-4136-988c-edb26a176ae1")
 			(effects
@@ -577,7 +577,7 @@
 			)
 		)
 		(property "Value" "Seeed Studio XIAO SAMD21"
-			(at 0 5.08 360)
+			(at 0 5.08 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6ae4e40f-d257-45a4-95e8-a184583947e0")
@@ -589,7 +589,7 @@
 			)
 		)
 		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-Generic-Thruhole-14P-2.54-21X17.8MM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b18dbc0-11a6-4bcb-81cc-c0bd563650c9")
@@ -601,7 +601,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14c689fc-627f-45e1-96f3-97bf90ff0aec")
@@ -613,7 +613,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b220429c-c605-485c-9966-f613b51845b1")
@@ -732,7 +732,7 @@
 		)
 		(fp_arc
 			(start 6.9 -10.5)
-			(mid 8.301492 -9.901492)
+			(mid 8.301494 -9.901494)
 			(end 8.9 -8.5)
 			(stroke
 				(width 0.12)
@@ -3604,7 +3604,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "e9565d93-2726-4a66-9cac-b0a8cc05b25a")
 			(effects
@@ -3615,7 +3615,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -2.54 12.954 360)
+			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "d03fd72d-5bc7-404d-9a4d-a5da243e283a")
 			(effects
@@ -3829,7 +3829,7 @@
 			(uuid "db8c7a04-9ef6-4b88-89db-6580131f0161")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.Fab")
 			(uuid "6311070c-5c7c-4147-abbd-cceef2514e29")
 			(effects
@@ -3901,7 +3901,7 @@
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW4"
-			(at 2.8 -4.7 360)
+			(at 2.8 -4.7 0)
 			(layer "F.SilkS")
 			(uuid "d0e09c72-892f-4f49-9857-43f354f1c56f")
 			(effects
@@ -3912,7 +3912,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 7.5 10.4 360)
+			(at 7.5 10.4 0)
 			(layer "F.Fab")
 			(uuid "daffb980-3141-41b0-b7fd-c1c71c30a149")
 			(effects
@@ -4229,7 +4229,7 @@
 			(uuid "c05bf1cd-a85a-4c27-b63d-c1c1ee677e49")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 11.1 6.3 360)
+			(at 11.1 6.3 0)
 			(layer "F.Fab")
 			(uuid "e9a09500-5f47-4f8c-8b3c-ab7fc57a09d8")
 			(effects
@@ -4329,7 +4329,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "dce9831b-c3f2-4fe5-af1b-3537cef94d65")
 			(effects
@@ -4340,7 +4340,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -2.54 12.954 360)
+			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "5e2c9eaa-020f-4ded-bbac-943268e74e28")
 			(effects
@@ -4554,7 +4554,7 @@
 			(uuid "8bc0aef7-2019-4482-bfdf-e5c174d642de")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.Fab")
 			(uuid "433f3c49-e45b-4eb5-acc7-f524e1a085f0")
 			(effects
@@ -4893,7 +4893,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "fb831e61-edcb-405b-b5b1-2a743406d936")
 			(effects
@@ -4904,7 +4904,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -2.54 12.954 360)
+			(at -2.54 12.954 0)
 			(layer "F.Fab")
 			(uuid "ba457cbd-d571-48e0-b5fa-24e56426b11d")
 			(effects
@@ -5118,7 +5118,7 @@
 			(uuid "68949ed9-c41f-4c5c-9806-0d1fec91ef78")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 360)
+			(at -2.54 -2.794 0)
 			(layer "F.Fab")
 			(uuid "0556d2b5-70c4-472f-b670-09e48caf041b")
 			(effects
@@ -5196,7 +5196,7 @@
 	)
 	(gr_text "Nevo.B 10/2024"
 		(at 165.73 49.03 0)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "e0ce3f72-bcf6-475b-a1e7-e6a69ba72576")
 		(effects
 			(font
